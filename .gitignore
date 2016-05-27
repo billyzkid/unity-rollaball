@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+Builds/
+project.lock.json
+
